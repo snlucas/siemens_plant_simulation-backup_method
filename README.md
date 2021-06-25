@@ -2,7 +2,7 @@
 A Backup method for Siemens Plant Simulation.
 
 ## It isn't finished
-The project isn't finished and I cannot finish it because i no longer work with Plant Simulation, and don't have a license.
+The project isn't finished and I can't finish it because i no longer work with Plant Simulation, and don't have a license.
 So, if you like the project idea, *feel free to use*, and **please, contribute. I will apreciate that.**
 
 # About the Project
